@@ -58,7 +58,6 @@ Kaithereal@github
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-ffa000.svg?style=for-the-badge&logo=Firefox"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
